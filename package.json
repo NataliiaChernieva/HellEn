@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Bohdan-Skyba.github.io/zero-team",
+  "homepage": "https://github.com/NataliiaChernieva/HellEn",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /zero-team/",
+    "predeploy": "npm run build -- --public-url /HellEn/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
